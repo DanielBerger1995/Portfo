@@ -1025,10 +1025,7 @@ width: 10px;
 }
 
 
-.box-wrapper {
-    margin-bottom: 100px;
-    transform-origin: top;
-}
+
 
 .bottomsup {
     display: flex;
@@ -1047,14 +1044,14 @@ bottom: 0;
 
 
   [data-aos="grow"].aos-animate {
-    height: 80vh;
+    height: 90vh;
     margin-bottom: 0vh;
     transform-origin: top;
     
 }
 
 [data-aos="grown"].aos-animate {
-    height: 80vh;
+    height: 90vh;
     margin-bottom: 0vh;
     transform-origin: top;
     
@@ -1074,13 +1071,13 @@ bottom: 0;
      transition: 0.5s ease-in-out 0.95s;
 }
 .b1 {
-    height: 80vh;
+    height: 90vh;
      width: 80vw;
 }
 
 .b2 {
     
-   height: 80vh;
+   height: 90vh;
      width: 80vw;
 }
 
@@ -1089,7 +1086,7 @@ bottom: 0;
 }
 .number {
     margin-right: 15px;
-  height: 80vh;
+  height: 90vh;
 
 }
 .line {
