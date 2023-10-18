@@ -823,7 +823,7 @@ margin-bottom: 24px;
 
 .linehalf {
     margin: auto;
-    width: 14vw;
+    width: 6vw;
     height: 0.5px;
      background-color:#000d1a;
 }
@@ -982,7 +982,8 @@ margin-bottom: 24px;
 
 .appbutton_wrapper_left {
     display: flex;
-    width: 358px;
+    width: 100%;
+    align-self: left;
     justify-content: space-between;
 }
 
