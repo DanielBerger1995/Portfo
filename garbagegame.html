@@ -4,9 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DB Portfolio</title>
+    <title>Project GarbageGame.Pro</title>
     <link rel="stylesheet" href="sidepage.css">
-    <link rel="icon" href="/images/Asset 10.png">
+    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
     <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -61,11 +61,11 @@
 <div class="projectdetails">
     
 <div class="project_title">
-    Garbage Game. Pro
+    Garbage Game.Pro
 </div>
 
 <div class="project_type">
-    Group Project, Game Developement
+    Group Project, Game Development
 </div>
 
 <div class="project_skills">
@@ -80,13 +80,30 @@
 
 <div class="project_tools">
 
-    <img src="images/Project_tools/Blender.png" alt="" srcset="" class="project_tools_img">
-    <img src="images/Project_tools/Unity.png" alt="" srcset="" class="project_tools_img">
-    <img src="images/Project_tools/VS.png" alt="" srcset="" class="project_tools_img">
-    <img src="images/Project_tools/C.png" alt="" srcset="" class="project_tools_img">
-  
-    <img src="images/Project_tools/Figma.png" alt="" srcset="" class="project_tools_img">
-    <img src="images/Project_tools/Ae.png" alt="" srcset="" class="project_tools_img">
+    <div class="project_tools_img">
+        <img src="images/Project_tools/Unity.png" alt="" srcset="" class="unity">
+        <div class="unityhover">Unity</div></div>
+
+            <div class="project_tools_img">
+                <img src="images/Project_tools/Blender.png" alt="" srcset="" class="blender">
+                <div class="blenderhover">Blender</div></div>
+
+    <div class="project_tools_img">
+        <img src="images/Project_tools/VS.png" alt="" srcset="" class="visual">
+        <div class="visualhover">Visual Studio Code</div></div>  
+       
+        <div class="project_tools_img">
+        <img src="images/Project_tools/C.png" alt="" srcset="" class="csharp">
+        <div class="csharphover">C#</div></div>
+    
+        
+        <div class="project_tools_img">
+            <img src="images/Project_tools/Ae.png" alt="" srcset="" class="ae">
+            <div class="aehover">Adobe AfterEffects</div></div>
+
+        <div class="project_tools_img">
+            <img src="images/Project_tools/Figma.png" alt="" srcset="" class="figma">
+            <div class="figmahover">Figma</div></div>  
 
 </div>
 
@@ -114,9 +131,14 @@
     
    <div class="projectintro">
     <div class="subpage_header">Intro</div>
-    <div class="subpage_subheader">HOW DID WE START</div>
+    <div class="subpage_subheader">MAKE RECYCLING GREAT AGAIN</div>
     <div class="subpage_text">
-        We began by brainstorming on the topic of our game, remembering the topic had to be inherently boring to learn. Recycling came up and was left behind because of the lack of depth the topic offered and with a question, how to make it entertaining? At this point we were thinking about more practical games likes VR driving or guitar lessons, it was only later when we revisited the idea we thought about how amusing it would be with the recyclable objects would speak to you and their information would give you the learnings to complete the game. We tested the idea quickly among our peers and it came back with rave reviews so we started of the journey.
+        We began by brainstorming on the topic of our game, remembering the topic had to be inherently boring to learn. Recycling came up during our discussions but was left behind because of the lack of depth the topic offered. It was only later when we revisited the idea and asked ourselves how we would make it entertaining that we came up with our concept. 
+        <br><br>
+        How amusing it would be if the recyclable objects would speak to you and their information would give you the learnings to complete the game. Not only that but as you progressed through the levels you would get harder recyclable objects, such as a pizza box or light bulb and have more bins added to the kitchen thereby slowly increasing your knowledge level by level. We tested the idea quickly among our peers and it came back with rave reviews so we started off the journey.
+        <br><br>
+        With our topic, idea and concept of the game chosen, we just needed to plan out our work and think about our solutions from all angles and come up with specific things that we would need to test for our solution to work the best and be most desireable for potential users.
+        
     </div>
    </div>
 
@@ -138,14 +160,12 @@
     <div class="textright">
         <div>
          <div class="subpage_header">Blender, the Program NOT the cooking utensil </div>
-    <div class="subpage_subheader">AN INTRODUCTION TO THE PROGRAM</div>
+    <div class="subpage_subheader">BLENDING TOGETHER DIFFERENT STYLES</div>
     <div class="subpage_text">
-        We began by setting up the most simple lines of code, for example the camera and movement controls and quickly moved on to blender.
-
-        We used blender to create all our 3d objects, from what you see out the window to the kitchen and walls themselves. 
-        
-        I worked the mejority on the recycleable objects 
-        made sure to use few vertices to make it simple and we all followed the same rule to keep the style consistant </div>
+        We used Blender to create everything you see in the game, the recyclable goods, the kitchen, the view outside the windows and the very walls themself. 
+        <br><br>
+        I worked the majority of the recyclable objects and we decided to use as few vertices as possible to make it cartoonish since we were aiming for a more comical tone of voice (and ofcourse making it easier for us beginners). We all made sure to follow the same design guidelines to keep the style consistent among the entire game.
+        </div>
     </div>
 </div>
   </section>
@@ -158,12 +178,18 @@
     <div class="textabove">
 
         <div class="subpage_header">Work, work, work </div>
-        <div class="subpage_subheader">PRO-PROGRAMMING</div>
+        <div class="subpage_subheader">YES THERE WAS A LOT TO DO</div>
         <div class="subpage_text">
-            Voice lines
-            Hand - arm animations
-            Face animations
-            added limbs and ragdoll joints in legs when they run and sit </div>
+            To kick off the programming side of things we created a simple outline of our game architecture so we would have an easier time understanding which elements would be connected and those that would work separately to each other. 
+            <br><br>
+            We made sure to run tests at multiple stages to make sure we were creating the best game possible, did players prefer to move around or would the game be better stationary? After the initial concept test we set up the basic lines of code and elements, such as the camera and player movement.
+            <br><br>
+            We separated the other tasks among us, such as the arm and hand animations, facial animations for the recyclable objects as well as their arms and legs, rigging their bodies and making multiple joints to give them a ragdoll effect. We then worked on connecting everything in unity and programmed it to work as we envisioned and made sure to help each other at every stage.
+            <br><br>
+            Finally with most of the game in place, we began working on bringing our characters alive, writing scripts and recording our own voices. Testing the audio lines to see if they were understandable. We had four main voice lines for each object: Introduction as you walk up to the object, Information on which bin the object belongs in once you pick him up, telling you that you’re placing it in the right bin and being upset with you when you would hover him over the wrong bin. 
+            <br><br>
+            Finally we tested the audio lines and the basic framework of the game again and with the great feedback we finished by creating the game menu as well as creating a short tutorial for the game to explain the objectives and controls.
+             </div>
 
     </div>
  
@@ -195,11 +221,10 @@
 
     <div class="textabove">
 
-        <div class="subpage_header">Trailer voice </div>
-        <div class="subpage_subheader">LETS BEGIN</div>
+        <div class="subpage_header">Game Trailer</div>
+        <div class="subpage_subheader">BRINGING THE GAME ALIVE</div>
         <div class="subpage_text">
-            After connecting everything togethre - into unity and coding it all
-then we made a little video - super short but got so many shares very proud</div>
+            Once the entire game was functional we created a video game trailer using screen recordings from the real game, although the time frame was extremely short we were extremely proud of catching the raw essence of the game within the frames and yes we watched it multiple times over once I had released it on youtube. Within 24 hours the video had over 40 views, which was incredible seeing as we had only shared it with a few of our close friends, meaning it was being shared by them as well!</div>
 
     </div>
  
@@ -223,31 +248,41 @@ then we made a little video - super short but got so many shares very proud</div
     
     <div class="projectintro">
      <div class="subpage_header">Take Aways</div>
-     <div class="subpage_subheader">FOR THE FIRST TIME USING UNITY</div>
+     <div class="subpage_subheader">FOR THE FIRST TIME</div>
      <div class="subpage_text">
-        first time in C#
-        very happy with the idea - proud to share it
-        great responses from kanda told to sell it
-        liked the video
-        first time working with any of these prgrams ....
+        For the first time working with Blender, Unity and programming in C# I couldn’t be more ecstatic about what we accomplished in one month. Even the core concept itself and the enjoyment we had in working together on a project we all found interesting as well as difficult. 
+<br><br>
+When we presented it to Kanda, the company who had given us the task, their responses were more than positive, telling us that our creativity in the concept behind the game went even beyond the task's objective and that we should continue to work on the game and release it on steam for 1 dollar.
+
         
     </div>
     </div>
  
   </section>
-
-  <div class="line"></div>
-
-<section class="end">
-
-    <div class="subpage_header">Similar projects</div>
-
-    <div class="recommendations">
-<img src="images/2Gather.png" alt="" srcset="" class="recommend">
-<img src="images/MinFysio.png" alt="" srcset="" class="recommend">
-<img src="images/Boardgame Cafe.png" alt="" srcset="" class="recommend">
-</div>
-</section>
+  <div class="linehalf-wrapper">
+    <div class="linehalf"></div> <div class="subpage_header_small">Similar projects</div>  <div class="linehalf"></div>
+  </div>
+  
+  
+  <section class="end">
+  
+      
+  
+      <div class="recommendations">
+  
+          
+   <a href="phantribe.html" class="recommend_wrapper">
+  <img src="images/PhanTribe.png" alt="" srcset="" class="recommend"></a>
+  
+  <a href="2gather.html" class="recommend_wrapper">
+      <img src="images/2Gather.png" alt="" srcset="" class="recommend"></a>
+      
+  
+      <a href="minfysio.html" class="recommend_wrapper">
+          <img src="images/MinFysio.png" alt="" srcset="" class="recommend"></a>
+  
+  </div>
+  </section>
 
 
 
