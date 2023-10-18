@@ -1025,7 +1025,15 @@ width: 10px;
 }
 
 
+.box-wrapper{
+    scroll-snap-stop: always;
+    transition: 0.5s ease-in-out;
+    overflow: hidden;
+    margin: 0 0 24px 0;
+    display: flex;
+ 
 
+}
 
 .bottomsup {
     display: flex;
