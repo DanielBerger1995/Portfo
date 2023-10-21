@@ -192,7 +192,7 @@ li {
 
 .contacts {
     text-decoration: none;
-    color: inherit;
+    color: #ffffff;
 }
 
 .openinfo {
@@ -1326,6 +1326,11 @@ li {
        font-family: 'Montserrat', sans-serif;
   font-weight: 500;
     font-size: 12px;
+}
+
+.contacts {
+    text-decoration: none;
+    color: #ffffff;
 }
 .openinfo {
     width: 80vw;
