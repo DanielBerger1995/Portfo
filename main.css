@@ -46,7 +46,7 @@ body {
 }
 
 .profileimg {
-    width: 36vw;
+    width: 30vw;
     mix-blend-mode: screen;
     height: 100%;
     z-index: 2;
@@ -75,7 +75,7 @@ body {
     position: absolute;
     right: 0;
 
-    width: 30vw;
+    width: 36vw;
     height: 100%;
     text-align: left;
     opacity: 0.9;
@@ -95,7 +95,7 @@ body {
     color: #ffffff;
 
     margin-top: 0px;
-    font-size: 13px;
+    font-size: 12px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     width: 100%;
@@ -152,7 +152,7 @@ body {
 }
 
 .skills {
-    width: 32px;
+    width: 24px;
     margin-right: 8px;
 }
 
