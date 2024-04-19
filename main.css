@@ -1097,6 +1097,11 @@ font-size: 2.4vmin;
                         
                         }
 
+                        .siden {
+                            
+                            font-size: 2.4vmin;
+                        }
+
 }
 
 
@@ -1138,6 +1143,11 @@ font-size: 2.4vmin;
                                 font-size: 2.6vmin;
                                 
                                 }
+
+                                .siden {
+                            
+                                    font-size: 2.4vmin;
+                                }
         
         
 
@@ -1152,7 +1162,7 @@ font-size: 2.4vmin;
         scroll-snap-stop: always;
         transition: 0.5s ease-in-out;
         overflow: hidden;
-        margin: 0 0 24px 0;
+        margin: 0 0 40px 0;
         display: flex;
 
 
@@ -1545,6 +1555,11 @@ font-size: 2.4vmin;
                         .infotext {
                             font-size: 3vmin;
                             
+                            }
+
+                            .siden {
+                            
+                                font-size: 4vmin;
                             }
     
     }
