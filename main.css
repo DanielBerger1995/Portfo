@@ -597,7 +597,7 @@ svg {
 
 .project_type {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -868,7 +868,7 @@ svg {
     color: #ffffff;
 
     margin-top: 16px;
-    font-size: 1.4vmin;
+    font-size: 1.8vmin;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     width: 100%;
