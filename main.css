@@ -95,7 +95,7 @@ body {
     color: #ffffff;
 
     margin-top: 0px;
-    font-size: 1.4vmin;
+    font-size: 14px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     width: 100%;
@@ -128,7 +128,7 @@ body {
 
 .project_title_inf {
     color: #ffffff;
-    font-size: 2vmin;
+    font-size: 20px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     margin-bottom: 4px;
@@ -136,7 +136,7 @@ body {
 
 .project_type_inf {
     color: #ffffff;
-    font-size: 1.8vmin;
+    font-size: 18px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -161,7 +161,7 @@ ul {
     /* Remove default bullets */
     color: #f2f2f2;
 
-    font-size: 1.4vmin;
+    font-size: 14px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -184,7 +184,7 @@ li {
     display: flex;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    font-size: 1.6vmin;
+    font-size: 16px;
     align-items: center;
     color: #ffffff;
     margin-bottom: 8px;
@@ -428,7 +428,7 @@ svg {
     margin: 15px 0;
     color: #000d1a;
     font-weight: 900;
-    font-size: 1.8vmin;
+    font-size: 18px;
 }
 
 .box-wrapper {
@@ -589,7 +589,7 @@ svg {
 
 .project_title {
     color: #ffffff;
-    font-size: 1.8vmin;
+    font-size: 18px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 800;
     margin-bottom: 4px;
@@ -597,7 +597,7 @@ svg {
 
 .project_type {
     color: #ffffff;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -620,7 +620,7 @@ svg {
     padding: 4px 8px;
     margin: 4px;
     border-radius: 4px;
-    font-size: 1.2vmin;
+    font-size: 12px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -711,7 +711,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -723,7 +723,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -735,7 +735,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -747,7 +747,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -759,7 +759,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -771,7 +771,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -783,7 +783,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -795,7 +795,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -807,7 +807,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -819,7 +819,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -831,7 +831,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -843,7 +843,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -855,7 +855,7 @@ svg {
     border-radius: 4px;
     padding: 4px 8px;
     color: #020D19;
-    font-size: 1.6vmin;
+    font-size: 16px;
     font-family: 'Crimson Pro', serif;
     font-weight: 500;
     font-style: italic;
@@ -868,7 +868,7 @@ svg {
     color: #ffffff;
 
     margin-top: 16px;
-    font-size: 1.2vmin;
+    font-size: 12px;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     width: 100%;
@@ -1062,45 +1062,45 @@ svg {
 
 @media screen and (min-width: 1280px) {
 
-.project_title {
-font-size: 2.4vmin;
+    .project_title {
+        font-size: 2.4vmin;
 
-}
+    }
 
-.project_type {
-    font-size: 2vmin;
-    
+    .project_type {
+        font-size: 2vmin;
+
     }
 
     .project_skills_design {
         font-size: 1.6vmin;
-        
-        }
 
-        .project_description {
-            font-size: 1.6vmin;
-            
-            }
+    }
 
-            .project_title_inf {
-                font-size: 2.4vmin;
-                
-                }
+    .project_description {
+        font-size: 1.6vmin;
 
-                .project_type_inf {
-                    font-size: 2vmin;
-                    
-                    }
+    }
 
-                    .infotext {
-                        font-size: 1.6vmin;
-                        
-                        }
+    .project_title_inf {
+        font-size: 2.4vmin;
 
-                        .siden {
-                            
-                            font-size: 2.4vmin;
-                        }
+    }
+
+    .project_type_inf {
+        font-size: 2vmin;
+
+    }
+
+    .infotext {
+        font-size: 1.6vmin;
+
+    }
+
+    .siden {
+
+        font-size: 2.4vmin;
+    }
 
 }
 
@@ -1111,45 +1111,45 @@ font-size: 2.4vmin;
 
     .project_title {
         font-size: 3.4vmin;
-        
-        }
-        
-        .project_type {
-            font-size: 3vmin;
-            
-            }
-        
-            .project_skills_design {
-                font-size: 2.6vmin;
-                
-                }
-        
-                .project_description {
-                    font-size: 2.6vmin;
-                    
-                    }
-        
-                    .project_title_inf {
-                        font-size: 3.4vmin;
-                        
-                        }
-        
-                        .project_type_inf {
-                            font-size: 3vmin;
-                            
-                            }
-        
-                            .infotext {
-                                font-size: 2.6vmin;
-                                
-                                }
 
-                                .siden {
-                            
-                                    font-size: 2.4vmin;
-                                }
-        
-        
+    }
+
+    .project_type {
+        font-size: 3vmin;
+
+    }
+
+    .project_skills_design {
+        font-size: 2.6vmin;
+
+    }
+
+    .project_description {
+        font-size: 2.6vmin;
+
+    }
+
+    .project_title_inf {
+        font-size: 3.4vmin;
+
+    }
+
+    .project_type_inf {
+        font-size: 3vmin;
+
+    }
+
+    .infotext {
+        font-size: 2.6vmin;
+
+    }
+
+    .siden {
+
+        font-size: 2.4vmin;
+    }
+
+
 
     [data-aos="growbottom"].aos-animate {
 
@@ -1523,46 +1523,46 @@ font-size: 2.4vmin;
 @media screen and (max-width: 480px) {
 
     .project_title {
-    font-size: 4.4vmin;
-    
+        font-size: 4.4vmin;
+
     }
-    
+
     .project_type {
         font-size: 4vmin;
-        
-        }
-    
-        .project_skills_design {
-            font-size: 2.6vmin;
-            
-            }
-    
-            .project_description {
-                font-size: 3vmin;
-                
-                }
-    
-                .project_title_inf {
-                    font-size: 4.4vmin;
-                    
-                    }
-    
-                    .project_type_inf {
-                        font-size: 4vmin;
-                        
-                        }
-    
-                        .infotext {
-                            font-size: 3vmin;
-                            
-                            }
 
-                            .siden {
-                            
-                                font-size: 4vmin;
-                            }
-    
     }
+
+    .project_skills_design {
+        font-size: 2.6vmin;
+
+    }
+
+    .project_description {
+        font-size: 3vmin;
+
+    }
+
+    .project_title_inf {
+        font-size: 4.4vmin;
+
+    }
+
+    .project_type_inf {
+        font-size: 4vmin;
+
+    }
+
+    .infotext {
+        font-size: 3vmin;
+
+    }
+
+    .siden {
+
+        font-size: 4vmin;
+    }
+
+}
 
 @media screen and (max-width: 375px) {
 
