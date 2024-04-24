@@ -95,7 +95,7 @@ body {
     color: #ffffff;
 
     margin-top: 0px;
-    font-size: 14px;
+    font-size: 1.8vmin;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
     width: 100%;
@@ -184,7 +184,7 @@ li {
     display: flex;
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 14px;
     align-items: center;
     color: #ffffff;
     margin-bottom: 8px;
@@ -194,7 +194,7 @@ li {
 
 .icon img {
     width: 20px;
-    margin-right: 16px;
+    margin-right: 14px;
 }
 
 .contacts {
